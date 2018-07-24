@@ -5,3 +5,6 @@ I plotted the following relationships:
   Humidity (%) vs. Latitude
   Cloudiness (%) vs. Latitude
   Wind Speed (mph) vs. Latitude
+
+![ss](ss_hw6.png)
+![ss](ss_hw61.png)
